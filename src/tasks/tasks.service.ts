@@ -39,7 +39,7 @@ export class TasksService {
     }
     return tasks;
 
-    // Do somrthing with search
+    // Do something with search
 
     // return final result
   }
